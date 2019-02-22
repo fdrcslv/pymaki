@@ -4,5 +4,5 @@ import grabber
 
 class TestGrabber(TestCase):
     def test_is_string(self):
-        s = funniest.foo()
+        s = MakiIcon('bar').get_icon()
         self.assertTrue(isinstance(s, basestring))

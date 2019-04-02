@@ -1,7 +1,7 @@
 # python maki icons
 
 ## Installation
-`pip install git+https://github.com/fdrcslv/pymaki.git`
+`$ pip install git+https://github.com/fdrcslv/pymaki.git`
 
 
 <svg version="1.1" id="cafe-15" xmlns="http://www.w3.org/2000/svg" width="15px" height="15px" viewBox="0 0 15 15">

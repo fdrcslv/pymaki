@@ -1,2 +1,2 @@
 include README.rst
-include python-maki-icons/svg/*.svg
+include svg/*.svg

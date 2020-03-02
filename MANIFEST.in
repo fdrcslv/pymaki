@@ -1,2 +1,2 @@
 include README.rst
-include svg/*.svg
+include pymaki/svg/*.svg

@@ -5,7 +5,7 @@ def readme():
         return f.read()
 
 setup(name='pymaki',
-      version=0.02,
+      version=0.03,
       description='Maki icons in python',
       long_description= readme(),
       url='',

@@ -5,8 +5,8 @@ def readme():
         return f.read()
 
 setup(name='pymaki',
-      version=0.03,
-      description='Maki icons in python',
+      version=0.04,
+      description='Maki icons in python.',
       long_description= readme(),
       url='',
       author='Federico Silvestri',
